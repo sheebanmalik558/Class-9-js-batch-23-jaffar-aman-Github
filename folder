@@ -8,6 +8,8 @@ git add
 git config --global user.name "Your_name"
 git config --global user.name "Your_"
 git commit -m "Commit name"
+git log 
+git log--oneline
 
 git remote add origin "yout repo url" (onetime)
 git push origin master
