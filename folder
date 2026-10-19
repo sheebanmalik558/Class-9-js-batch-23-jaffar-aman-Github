@@ -10,6 +10,8 @@ git config --global user.name "Your_"
 git commit -m "Commit name"
 git log 
 git log--oneline
+git remote add origin "repository_link"
+git push origin master (to push code on github repository)
 
 git remote add origin "yout repo url" (onetime)
 git push origin master
